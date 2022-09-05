@@ -29,7 +29,7 @@ const myChart = new Chart(ctx, {
     data: {
         labels: [],
         datasets: [{
-            label: '# of Votes',
+            label: 'Value',
             data: [],
             backgroundColor: [
                  
