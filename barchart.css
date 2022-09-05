@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    color: cadetblue;
+}
+a{
+    text-decoration: none;
+}
+body{
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+#que{
+    margin: 30px;
+    white-space: 20px;
+    color: rgb(115, 181, 190);
+}
+#que p{
+    margin: 15px 0;
+}
+#que input{
+    border: 2px solid rgba(115, 181, 190, 0.7);
+    border-radius: 10px;
+    height: 25px;
+}
+button{
+    margin: 20px;
+    margin-left: 50px;
+    border: 2px solid cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(129, 129, 141);
+    background-color: white;
+}
